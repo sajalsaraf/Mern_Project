@@ -1,0 +1,26 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  padding-left: 2vw;
+  height: 5vh;
+  background-color: aqua;
+}
+
+.emplist {
+  margin-left: 20vw;
+}
+
+.profile {
+  margin-left: 55vw;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.navbar a:hover {
+  color: black;
+}

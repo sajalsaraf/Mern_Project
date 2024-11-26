@@ -1,0 +1,9 @@
+.dash {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  padding-left: 2vw;
+  height: 5vh;
+  background-color: yellow;
+}
